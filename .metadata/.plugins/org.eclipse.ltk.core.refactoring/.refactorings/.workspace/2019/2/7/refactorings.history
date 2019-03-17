@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Structs2_1800_Global_Result&apos; to &apos;Structs2_1800_ResultWithParams&apos;" description="Rename resource &apos;Structs2_1800_Global_Result&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Structs2_1800_Global_Result" name="Structs2_1800_ResultWithParams" stamp="1550151592665" updateReferences="true"/>
+</session>

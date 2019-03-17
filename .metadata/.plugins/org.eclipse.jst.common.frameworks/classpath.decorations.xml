@@ -1,0 +1,7 @@
+<classpath>
+  <container id="Structs2_1100_SimpleDataValiation!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="D:/luna eclipse workspace/Structs2_1100_SimpleDataValiation/WebContent/WEB-INF/lib/xwork-core-2.3.36.jar">
+      <source-attachment-path>D:/tools/struts-2.3.36/src/xwork-core/src/main/java</source-attachment-path>
+    </entry>
+  </container>
+</classpath>
