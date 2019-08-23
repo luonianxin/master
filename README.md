@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"><img src="https://jmeter.apache.org/images/logo.svg" alt="Apache JMeter logo" /></h1>
 <h4 align="center">Open Source application designed to load test applications and measure performance. By The Apache Software Foundation</h4>
 <br>
@@ -249,3 +250,7 @@ may be subject to export controls on cryptographic software:
 
 
 **Thank you for using Apache JMeter.**
+=======
+# master
+个人小项目仓库
+>>>>>>> 7848a0a7f94dc99110e478babd95c75ce298f4d0

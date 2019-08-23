@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+<constant name="struts.devMode" value="true" /> 
+<package name="user" namespace="/user" extends="struts-default">
+       
+		<action name="index">
+			<result>
+				/index.jsp
+			</result>
+		</action>
+        <action name="user" class="com.struts2.actionTest.UserAction" >
+            <result type="redirect">/UserSuccess.jsp?t=${type}</result>
+            
+        </action>
+    <!-- 规定好了后，最简洁的形式之一 -->
+    </package>
+
+</struts>
