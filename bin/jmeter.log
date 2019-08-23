@@ -1,0 +1,37 @@
+2019-08-20 17:51:01,960 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2019-08-20 17:51:01,977 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2019-08-20 17:51:01,978 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2019-08-20 17:51:01,986 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2019-08-20 17:51:01,986 INFO o.a.j.JMeter: Version 5.1.1 r1855137
+2019-08-20 17:51:01,986 INFO o.a.j.JMeter: java.version=1.8.0_101
+2019-08-20 17:51:01,986 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2019-08-20 17:51:01,986 INFO o.a.j.JMeter: os.name=Windows 10
+2019-08-20 17:51:01,986 INFO o.a.j.JMeter: os.arch=amd64
+2019-08-20 17:51:01,986 INFO o.a.j.JMeter: os.version=10.0
+2019-08-20 17:51:01,986 INFO o.a.j.JMeter: file.encoding=GBK
+2019-08-20 17:51:01,987 INFO o.a.j.JMeter: java.awt.headless=null
+2019-08-20 17:51:01,987 INFO o.a.j.JMeter: Max memory     =1073741824
+2019-08-20 17:51:01,987 INFO o.a.j.JMeter: Available Processors =4
+2019-08-20 17:51:01,992 INFO o.a.j.JMeter: Default Locale=English (EN)
+2019-08-20 17:51:01,993 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2019-08-20 17:51:01,993 INFO o.a.j.JMeter: JMeterHome=C:\Users\acer\Desktop\apache-jmeter-5.1.1
+2019-08-20 17:51:01,993 INFO o.a.j.JMeter: user.dir  =C:\Users\acer\Desktop\apache-jmeter-5.1.1\bin
+2019-08-20 17:51:01,993 INFO o.a.j.JMeter: PWD       =C:\Users\acer\Desktop\apache-jmeter-5.1.1\bin
+2019-08-20 17:51:11,001 INFO o.a.j.JMeter: IP: 169.254.215.153 Name: LUONX FullName: LUONX
+2019-08-20 17:51:11,503 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2019-08-20 17:51:11,548 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2019-08-20 17:51:11,548 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2019-08-20 17:51:11,621 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2019-08-20 17:51:13,329 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-08-20 17:51:13,329 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-08-20 17:51:13,330 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-08-20 17:51:13,330 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-08-20 17:51:13,330 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2019-08-20 17:51:13,330 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2019-08-20 17:51:14,075 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2019-08-20 17:51:14,075 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\acer\Desktop\apache-jmeter-5.1.1\bin\proxyserver.jks
+2019-08-20 17:51:14,206 INFO o.a.j.s.FileServer: Default base='C:\Users\acer\Desktop\apache-jmeter-5.1.1\bin'
+2019-08-20 17:51:15,237 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2019-08-20 17:51:15,237 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2019-08-20 17:51:15,238 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2019-08-20 17:51:15,238 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
